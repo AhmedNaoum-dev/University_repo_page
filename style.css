@@ -28,7 +28,12 @@ nav{
     justify-content: space-between;
     /* background-color: #D1CBB4; */
 }
-
+header {
+    background-color: #9A8E76;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+}
 
 
 a{
